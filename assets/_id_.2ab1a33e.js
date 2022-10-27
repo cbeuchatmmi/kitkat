@@ -1,0 +1,1 @@
+import{_ as o}from"./FormMontre.vue_vue_type_script_setup_true_lang.28adbbf3.js";import{d as t,o as n,c as s,g as a}from"./index.d7fa6ee1.js";import"./MontreRonde.vue_vue_type_style_index_0_lang.a1b83cd2.js";const i={class:"bg-noir2"},l=t({__name:"[id]",props:{id:null},setup(e){return(r,c)=>(n(),s("div",i,[a(o,{id:e.id},null,8,["id"])]))}});export{l as default};
